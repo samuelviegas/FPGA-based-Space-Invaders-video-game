@@ -8,6 +8,7 @@ Where most state machines and registers are.
 This is how it looks like:
 
 ![space_invaders](space_invaders.png)
+
 And this is the FPGA that we used:
 
 ![basys2](basys2.jpg)
